@@ -1,12 +1,4 @@
 # PhoneSploit Pro
-### PhoneSploit with Metasploit Integration.
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/AzeemIdrisi/PhoneSploit-Pro)
-[![CodeFactor](https://www.codefactor.io/repository/github/azeemidrisi/phonesploit-pro/badge)](https://www.codefactor.io/repository/github/azeemidrisi/phonesploit-pro)
-![Python](https://img.shields.io/badge/python-v3.10%2B-blue)
-![GitHub Release Date](https://img.shields.io/github/release-date/AzeemIdrisi/PhoneSploit-Pro?logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/AzeemIdrisi/PhoneSploit-Pro?logo=github)
-![GitHub Repo stars](https://img.shields.io/github/stars/AzeemIdrisi/PhoneSploit-Pro?style=social)
-![GitHub forks](https://img.shields.io/github/forks/AzeemIdrisi/PhoneSploit-Pro?style=social)
 
 
 An all-in-one hacking tool written in `Python` to remotely exploit Android devices using `ADB` (Android Debug Bridge) and `Metasploit-Framework`.
@@ -108,7 +100,7 @@ Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requ
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/HARSHANHARSHU/PhoneSploit-Pro.git
 ```
 ```
 cd PhoneSploit-Pro/
@@ -118,12 +110,12 @@ python3 phonesploitpro.py
 ```
 #### On Windows :
 
-Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requirements) software are installed.
+Make sure all the [required](https://github.com/HARSHANHARSHU/PhoneSploit-Pro#requirements) software are installed.
 
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/AzeemIdrisi/PhoneSploit-Pro.git
+git clone https://github.com/HARSHANHARSHU/PhoneSploit-Pro.git
 ```
 ```
 cd PhoneSploit-Pro/
@@ -135,14 +127,6 @@ cd PhoneSploit-Pro/
 ```
 python phonesploitpro.py
 ```
-
-
-# Screenshots
-
-![Screenshot Page 1](docs/Screenshot-1.png)
-![Screenshot Page 2](docs/Screenshot-2.png)
-![Screenshot Page 3](docs/Screenshot-3.png)
-
 
 
 # Tutorial
@@ -341,23 +325,3 @@ pkg install nmap
 * Do not use this tool to harm others.
 * Use this project responsibly on your own devices only.
 * It is the end user's responsibility to obey all applicable local, state, federal, and international laws.
-
-
-# Developer
-
-<a href="https://github.com/azeemidrisi/">
-<!--   <img src="https://contrib.rocks/image?repo=azeemidrisi/phonesploit-pro" /> -->
- <img width="150px" src=https://github.com/AzeemIdrisi/PhoneSploit-Pro/assets/112647789/a5fa646c-93a2-460f-bcb7-528fedb147e9 />
-
-</a>
-
-
-**Azeem Idrisi** - [@AzeemIdrisi](https://github.com/azeemidrisi/)
- 
-
-# Support Me
-If you like my work you can support me via :
-
-<a href="https://paypal.me/AzeemIdrisi" target="_blank"> <kbd> <img
-        src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/paypal-button-blue.png" alt="PayPal"
-        width="147"></a> <a href="https://www.buymeacoffee.com/AzeemIdrisi" target="_blank"> <kbd> <img src="https://github.com/AzeemIdrisi/AzeemIdrisi/blob/main/docs/default-yellow.png" alt="Buy Me A Coffee" width="200"></a>
