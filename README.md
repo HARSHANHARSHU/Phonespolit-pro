@@ -100,7 +100,7 @@ Make sure all the [required](https://github.com/AzeemIdrisi/PhoneSploit-Pro#requ
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/HARSHANHARSHU/PhoneSploit-Pro.git
+https://github.com/HARSHANHARSHU/Phonespolit-pro
 ```
 ```
 cd PhoneSploit-Pro/
@@ -115,7 +115,7 @@ Make sure all the [required](https://github.com/HARSHANHARSHU/PhoneSploit-Pro#re
 
 Open terminal and paste the following commands : 
 ```
-git clone https://github.com/HARSHANHARSHU/PhoneSploit-Pro.git
+https://github.com/HARSHANHARSHU/Phonespolit-pro
 ```
 ```
 cd PhoneSploit-Pro/
