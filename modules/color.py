@@ -1,6 +1,6 @@
 """
 Script : PhoneSploit Pro
-Author : Mohd Azeem (github.com/AzeemIdrisi)
+Author : Harshan B (github.com/HARSHANHARSHU)
 """
 
 RED = "\033[91m"
