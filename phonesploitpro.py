@@ -1,8 +1,3 @@
-"""
-Script : PhoneSploit Pro
-Author : Harshan B (github.com/HARSHANHARSHU)
-"""
-
 import os
 import random
 import socket
