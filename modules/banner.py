@@ -1,6 +1,6 @@
 """
 Script : PhoneSploit Pro
-Author : Mohd Azeem (github.com/HARSHANHARSHU)
+Author : Harshan B (github.com/HARSHANHARSHU)
 """
 
 from modules import color
@@ -75,7 +75,7 @@ banner2 = f"""
         ░█─── ▀──▀ ▀▀▀▀ ▀──▀ ▀▀▀ ░█▄▄▄█ █▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀ ──▀── 　 ░█─── ▀─▀▀ ▀▀▀▀
 
 
-            {color.RED}{version}{color.WHITE}            {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}            {color.WHITE}By github.com/HARSHANHARSHU
 """
 
 banner3 = f"""
@@ -84,7 +84,7 @@ banner3 = f"""
         █▀▀ █▀█ █▄█ █░▀█ ██▄ ▄█ █▀▀ █▄▄ █▄█ █ ░█░   █▀▀ █▀▄ █▄█ 
 
 
-            {color.RED}{version}{color.WHITE}             {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}             {color.WHITE}By github.com/HARSHANHARSHU
 """
 
 banner4 = f"""
@@ -96,7 +96,7 @@ banner4 = f"""
                   \/            \/     \/        \/|__|                                                      
 
 
-        {color.RED}{version}{color.WHITE}                             {color.WHITE}By github.com/AzeemIdrisi
+        {color.RED}{version}{color.WHITE}                             {color.WHITE}By github.com/HARSHANHARSHU
 """
 banner5 = f"""
        ___  __                 ____     __     _ __     ___         
@@ -105,7 +105,7 @@ banner5 = f"""
     /_/  /_//_/\___/_//_/\__/___/ .__/_/\___/_/\__/  /_/  /_/  \___/
                                /_/                                                                                                      
 
-        {color.RED}{version}{color.WHITE}        {color.WHITE}By github.com/AzeemIdrisi
+        {color.RED}{version}{color.WHITE}        {color.WHITE}By github.com/HARSHANHARSHU
 """
 
 banner6 = f"""
@@ -116,7 +116,7 @@ banner6 = f"""
     /_/   /_/ /_/\____/_/ /_/\___/____/ .___/_/\____/_/\__/    /_/   /_/   \____/
                                      /_/                                                                                                       
     
-           {color.RED}{version}{color.WHITE}               {color.WHITE}By github.com/AzeemIdrisi
+           {color.RED}{version}{color.WHITE}               {color.WHITE}By github.com/HARSHANHARSHU
 
 """
 
@@ -131,7 +131,7 @@ banner10 = f"""
                                                          \ \_\                                                       
                                                           \/_/                                              
 
-            {color.RED}{version}{color.WHITE}                                {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}                                {color.WHITE}By github.com/HARSHANHARSHU
 
 """
 
@@ -144,7 +144,7 @@ banner11 = f"""
                                             /_/                                                      
 
 
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/HARSHANHARSHU
 
 """
 
@@ -155,7 +155,7 @@ banner12 = f"""
         ▒█░░░ ▀░░▀ ▀▀▀▀ ▀░░▀ ▀▀▀ ▒█▄▄▄█ █▀▀▀ ▀▀▀ ▀▀▀▀ ▀▀▀ ░░▀░░ 　 ▒█░░░ ▀░▀▀ ▀▀▀▀   
 
 
-            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/AzeemIdrisi
+            {color.RED}{version}{color.WHITE}                            {color.WHITE}By github.com/HARSHANHARSHU
 
 """
 banner_list = [
