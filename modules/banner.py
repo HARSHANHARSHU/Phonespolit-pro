@@ -1,6 +1,6 @@
 """
 Script : PhoneSploit Pro
-Author : Mohd Azeem (github.com/AzeemIdrisi)
+Author : Mohd Azeem (github.com/HARSHANHARSHU)
 """
 
 from modules import color
